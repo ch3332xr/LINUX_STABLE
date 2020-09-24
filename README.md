@@ -1,5 +1,5 @@
 # LINUX_STABLE
-Install &amp; Boot into latest Stable Linux Kernel
+Install &amp; Boot into latest stable Linux Kernel
 
 
 ## Install
